@@ -1,0 +1,4 @@
+puphpet/config-custom.yaml
+.vagrant/
+www/html/
+www/mywordpress.local/
